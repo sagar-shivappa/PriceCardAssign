@@ -64,7 +64,7 @@ function Card(props) {
           </li>
         </ul>
         <div class="d-grid">
-          <a class="btn btn-primary text-uppercase">Button</a>
+          <button class="btn btn-primary text-uppercase">Button</button>
         </div>
       </div>
     </div>
